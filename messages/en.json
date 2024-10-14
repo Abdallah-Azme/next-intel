@@ -1,6 +1,21 @@
 {
-  "HomePage": {
-    "title": "Hello world!",
-    "about": "Go to the about page"
+  "SignUpForm": {
+    "mobile": "Please enter a valid mobile number.",
+    "email": "Please enter a valid email address.",
+    "name": "Please enter your name.",
+    "password": "Your password must be at least 10 characters long."
+  },
+  "SignInForm": {
+    "mobile": "Please enter a valid mobile number.",
+    "password": "Your password must be at least 10 characters long."
+  },
+  "UpdateProfileForm": {
+    "mobile": "Please enter a valid mobile number.",
+    "email": "Please enter a valid email address.",
+    "name": "Please enter your name."
+  },
+  "Heading": {
+    "mostSelling": "Best-selling products",
+    "relatedProducts": "Related products"
   }
 }
